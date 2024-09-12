@@ -32,7 +32,7 @@ New Features:
 
 ## Installation (in R/RStudio)
 
-remotes::install_github('chris-mcginnis-ucsf/DoubletFinder')
+remotes::install_github('macrophage666/DoubletFinder')
 
 ## Dependencies
 
